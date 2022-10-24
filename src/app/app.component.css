@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    color: green;
+}
+ h2{
+    color:rgb(223, 238, 16);
+ }
+
+ div h2{
+    display:inline-block;
+    padding-left: 30px;
+ }
